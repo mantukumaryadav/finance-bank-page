@@ -1,6 +1,32 @@
-# Getting Started with Create React App
+# Finance Bank Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+
+The Finance Bank Landing Page is a modern, responsive web application built with React and CSS. It serves as the main landing page for a hypothetical finance bank, showcasing key features, services, FAQ, and customer testimonials.
+
+## Screenshots
+
+![Screenshot (24)](https://github.com/mantukumaryadav/finance-bank-page/assets/65592276/9e556457-7d00-4e6a-ad51-3913941e47a2)
+![Screenshot 2024-06-03 222424](https://github.com/mantukumaryadav/finance-bank-page/assets/65592276/037c4e67-0725-4a0f-8d25-0fe0c886429d)
+![Screenshot (25)](https://github.com/mantukumaryadav/finance-bank-page/assets/65592276/cdbd6fea-03bb-4209-bc37-4e13e30b317a)
+![Screenshot 2024-06-03 222539](https://github.com/mantukumaryadav/finance-bank-page/assets/65592276/bb14f4ab-b22e-428c-b73f-b0ac2898a107)
+![Screenshot (26)](https://github.com/mantukumaryadav/finance-bank-page/assets/65592276/0f46a005-c203-4b83-95d5-845d19c58cd1)
+![Screenshot (27)](https://github.com/mantukumaryadav/finance-bank-page/assets/65592276/0a1020bc-0831-4be7-818f-15ce97f4cfe5)
+![Screenshot (28)](https://github.com/mantukumaryadav/finance-bank-page/assets/65592276/3fd7b5cf-172f-4493-b4de-deda003fc80d)
+![Screenshot (29)](https://github.com/mantukumaryadav/finance-bank-page/assets/65592276/38281288-aefb-40e0-9faf-1e0a30937eec)
+
+
+## Features
+
+- **Responsive Design**: Ensures compatibility with various devices and screen sizes.
+- **Interactive Elements**: Includes interactive components like sliders, modals, and form validations.
+- **Modern Aesthetics**: Utilizes a clean and professional design with modern CSS techniques.
+- **Accessible**: Adheres to web accessibility standards for an inclusive user experience.
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **CSS**: Cascading Style Sheets for styling the application.
 
 ## Available Scripts
 
